@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c97cad9-ff0f-4e84-982d-dfdeab4d1c4b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/node.js.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Console.Log.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/Console.Log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Javascript/Degiskenler.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +30,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mitra\WebstormProjects\Node.js-Training-Node.js-Egitimi\node.js\Javascript" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -46,12 +47,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.Degiskenler.js">
     <configuration name="Console.Log.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Javascript/Console.Log.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Degiskenler.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Javascript/Degiskenler.js" working-dir="$PROJECT_DIR$/Javascript">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Degiskenler.js" />
         <item itemvalue="Node.js.Console.Log.js" />
       </list>
     </recent_temporary>
@@ -66,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575327452988</updated>
-      <workItem from="1575327454211" duration="2468000" />
+      <workItem from="1575327454211" duration="2838000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1575327770484</created>
@@ -103,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575329067758</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit test 6">
+      <created>1575329936353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575329936353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +138,7 @@
     <MESSAGE value="commit test 3" />
     <MESSAGE value="commit test 4" />
     <MESSAGE value="commit test 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test 5" />
+    <MESSAGE value="commit test 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test 6" />
   </component>
 </project>
