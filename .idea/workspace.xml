@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c97cad9-ff0f-4e84-982d-dfdeab4d1c4b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/node.js.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Console.Log.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/Console.Log.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +47,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Console.Log.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Console.Log.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Console.Log.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Javascript/Console.Log.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -61,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575327452988</updated>
-      <workItem from="1575327454211" duration="1488000" />
+      <workItem from="1575327454211" duration="2468000" />
     </task>
     <task id="LOCAL-00001" summary="commit test">
       <created>1575327770484</created>
@@ -84,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575328606668</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit test 4">
+      <created>1575328970024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575328970024</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit test 5">
+      <created>1575329067758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575329067758</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +124,8 @@
     <MESSAGE value="commit test" />
     <MESSAGE value="commit test 2" />
     <MESSAGE value="commit test 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit test 3" />
+    <MESSAGE value="commit test 4" />
+    <MESSAGE value="commit test 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test 5" />
   </component>
 </project>
